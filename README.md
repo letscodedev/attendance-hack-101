@@ -10,7 +10,7 @@ Install [Selenium](https://pypi.org/project/selenium/) to run the automated scri
 pip install selenium
 ```
 
-## Before first Run
+## Before First Run
 
 Update the fields *YOUR_EMAIL_ADDRESS* and *YOUR_PASSWORD* in **ah101.py**
 
