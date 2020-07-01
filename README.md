@@ -1,3 +1,5 @@
+![Attendance Hack 101](https://i.ibb.co/WpGRmvB/3.png)
+
 # Attendance Hack 101
 
 Automated python script that will alert you while lecturer mentions attendance during online lecture.
