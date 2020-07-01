@@ -1,4 +1,4 @@
-![Attendance Hack 101](https://i.ibb.co/mDd64bL/3.png)
+![Attendance Hack 101](https://i.ibb.co/WpGRmvB/3.png)
 
 # Attendance Hack 101
 
